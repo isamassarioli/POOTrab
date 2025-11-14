@@ -1,0 +1,5 @@
+3 Legolas 150 70 Sim
+1 Thranduil 200 75 Sim
+2 Tauriel 120 65 Sim
+6 Thorin 180 95
+4 Bombur 160 110 Sim
